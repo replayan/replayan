@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ayanedu" target="blank"><img src="https://img.shields.io/twitter/follow/ayanedu?logo=twitter&style=for-the-badge" alt="ayanedu" /></a> </p>
 
-- 🔭 I’m currently working on **Undisclosed project**
+- 🔭 I’m currently working on **E-com project**
 
 - 🌱 I’m currently learning **MERN**
 
