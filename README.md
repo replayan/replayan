@@ -1,17 +1,15 @@
 ![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Ayan Chakraborty</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/828/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=replayan&label=Profile%20views&color=0e75b6&style=flat" alt="replayan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ayanedu" target="blank"><img src="https://img.shields.io/twitter/follow/ayanedu?logo=twitter&style=for-the-badge" alt="ayanedu" /></a> </p>
 
-- 🔭 I’m currently working on **E-com project**
+- 🔭 I’m currently working on **Some project**
 
-- 🌱 I’m currently learning **DSA & React**
-
-- 👯 I’m looking to collaborate on **Frontend**
+- 🌱 I’m currently learning **Algorithms & React Fundamentals**
 
 - 💬 Ask me about **JS, c++ and java**
 
